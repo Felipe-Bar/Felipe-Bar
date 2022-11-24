@@ -1,5 +1,5 @@
    ## Olá! sou Luiz Felipe , 18 anos
--💻 ciência da computação 2/8
+#-💻 ciência da computação 2/8
 -🧠 Dev. Full Stack
 -👩‍💻 CEO: @stp__macrotech
 -🧠 Estágios • trabalhos home office
